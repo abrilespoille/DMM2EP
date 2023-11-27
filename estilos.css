@@ -1,0 +1,55 @@
+section:first-of-type {
+    margin-top: 70px;
+}
+
+h1 {
+    font-family: 'Montserrat regular', sans-serif;
+    color: #BBB3A4;
+}
+
+h2 {
+    color: #BBB3A4;
+}
+
+body {
+    font-family: 'Montserrat light', sans-serif;
+    background-color: #EDEDED;
+}
+ 
+nav {
+    font-family: 'Montserrat regular', sans-serif;
+}
+
+footer {
+    background-color: #BBB3A4;
+    color: white;
+}
+
+.btn-masinfo {
+    background-color: #5BA8A0;
+    color: white;
+}
+
+.btn-masinfo:hover {
+    background-color: #23656E;
+    color: #E8E7EA;
+}
+
+.btn-enviar {
+    background-color: #BBB3A4;
+    color: white;
+}
+
+.btn-enviar:hover {
+    background-color: #C9C2B6;
+    color: #E8E7EA;
+}
+
+p {
+    font-size: medium;
+}
+
+h3 {
+    font-size: larger;
+    padding-bottom: 6px;
+}
